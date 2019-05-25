@@ -1,0 +1,267 @@
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201705028.jpg 60,166,133,234,8 274,181,325,237,8 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2015061620.jpg 38,67,356,300,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201709282.jpg 52,33,287,267,2 112,106,217,220,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/20081128.jpg 1,1,799,457,8 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/20130606.jpg 139,147,168,184,4 190,132,214,167,4 100,162,119,185,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201706225.jpg 2,203,85,258,2 108,184,217,242,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2010122314.jpg 419,202,442,232,4 402,209,420,233,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201509238.jpg 234,147,338,197,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2013062411.jpg 156,133,300,263,4 79,118,189,213,4 1,109,29,135,8 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2015061825.jpg 155,75,302,236,2 250,1,338,47,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201306207.jpg 77,62,178,192,4 182,28,299,144,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201511302.jpg 84,62,268,299,4 140,65,254,198,8 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201407032.jpg 146,106,285,197,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201609265.jpg 86,62,186,204,8 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201408132.jpg 109,175,216,297,4 115,86,181,152,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201009291.jpg 223,144,258,180,2 201,122,234,157,4 1,112,116,162,5 260,10,400,253,11 119,148,153,201,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201207271.jpg 247,173,310,251,4 308,176,365,256,4 295,91,391,181,4 223,98,294,178,4 83,170,193,248,3 2,160,102,240,3 18,125,206,178,10 1,123,33,164,4 342,55,369,71,2 126,96,192,133,4 48,99,97,134,4 189,94,232,134,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201109203.jpg 25,138,97,255,5 68,39,138,150,5 105,45,207,168,5 98,163,238,300,5 221,191,382,300,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2017062312.jpg 84,126,345,280,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201506026.jpg 93,146,292,259,8 1,91,158,188,8 293,156,400,287,8 138,126,310,227,8 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201208271.jpg 144,22,206,69,8 152,92,339,267,8 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2014010813.jpg 83,134,303,299,10 170,99,205,123,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201209281.jpg 82,69,295,252,8 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201108053.jpg 73,250,421,421,2 418,294,521,419,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201501076.jpg 231,134,265,185,4 67,196,132,270,4 274,150,297,173,2 232,126,264,136,6 176,145,191,167,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201806285.jpg 8,75,357,265,8 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201010271.jpg 174,99,230,207,4 102,96,153,188,4 52,111,103,194,4 22,144,71,213,4 75,244,135,300,4 130,215,252,300,2 227,96,280,124,6 39,206,68,234,2 113,71,130,94,1 167,52,211,90,3 278,130,372,190,5 83,176,99,199,1 152,125,172,147,4 239,150,257,177,1 3,111,33,127,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201112067.jpg 248,206,331,402,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201405227.jpg 147,115,200,144,2 138,83,177,110,2 146,37,326,98,6 185,80,284,136,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201601151.jpg 95,155,193,252,8 204,151,310,251,8 229,96,306,166,8 161,80,226,106,8 275,104,323,134,2 1,90,64,158,5 300,139,388,253,5 21,174,99,300,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2018081424.jpg 211,96,229,128,1 181,123,245,182,2 228,94,258,126,6 64,117,122,151,6 10,114,69,152,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201010018.jpg 117,1,499,351,12 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/200811229.jpg 88,218,197,305,4 357,197,438,262,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201410023.jpg 227,124,369,258,8 154,105,238,202,8 107,105,157,176,8 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201308123.jpg 150,73,270,268,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201507167.jpg 114,103,192,232,1 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2008121423.jpg 338,213,481,396,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201801041.jpg 148,178,220,242,5 302,108,317,131,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201405195.jpg 113,142,215,170,8 109,168,227,202,8 116,199,226,232,8 159,123,248,154,8 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201607155.jpg 139,84,273,215,4 116,1,325,84,5 230,244,400,300,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/200811168.jpg 121,79,250,183,3 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2018032811.jpg 87,63,348,177,4 74,178,268,267,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201410024.jpg 236,160,335,235,5 148,169,235,251,5 37,192,143,267,5 165,104,227,148,5 49,20,119,78,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201805023.jpg 75,58,276,238,10 134,30,177,52,8 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2017041113.jpg 284,259,341,297,7 291,223,344,264,3 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201708292.jpg 136,103,181,119,8 239,102,289,116,8 301,94,354,112,8 20,62,33,83,12 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2009070227.jpg 119,81,236,190,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201704116.jpg 45,17,326,255,8 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2009041530.jpg 294,101,354,169,4 290,203,400,298,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201306274.jpg 1,86,135,267,4 25,115,400,267,4 214,32,246,50,3 217,9,235,19,2 322,3,352,37,4 276,1,304,26,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/200903258.jpg 273,109,552,397,12 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/200906249.jpg 1,98,399,300,3 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201608092.jpg 138,41,211,117,4 213,91,330,239,2 1,61,21,95,1 98,79,138,122,3 92,70,110,98,1 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/200907231.jpg 50,107,146,158,8 61,138,153,189,8 63,167,158,227,8 61,205,146,248,8 66,228,151,271,8 155,79,249,129,8 160,113,257,162,8 159,148,248,188,8 160,174,249,216,8 162,196,253,245,8 154,220,248,273,8 256,114,333,151,8 251,140,341,182,8 249,171,337,207,8 250,197,338,235,8 255,225,337,263,8 277,63,379,93,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201605233.jpg 191,117,293,213,2 148,23,207,75,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201807127.jpg 182,87,279,239,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201801193.jpg 117,103,201,191,2 196,123,298,216,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2013090811.jpg 256,98,400,217,2 142,154,227,234,2 111,26,167,129,1 247,123,330,256,1 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201209106.jpg 128,72,373,258,3 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/200811051.jpg 243,171,273,191,8 47,178,75,204,2 92,160,122,186,4 5,176,40,190,7 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/20121127.jpg 241,200,339,300,2 266,17,362,140,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201409294.jpg 84,106,251,262,4 199,197,256,279,4 268,153,311,213,4 310,159,357,221,4 278,203,312,234,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/20111028.jpg 74,22,196,99,7 91,73,289,251,0 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2017122919.jpg 273,214,311,271,4 74,90,122,137,5 127,65,193,124,5 231,11,260,29,3 66,1,98,21,3 119,11,165,31,3 230,25,260,39,3 229,37,257,52,3 121,28,164,46,3 123,40,163,62,3 69,29,100,47,3 26,28,72,54,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201406308.jpg 36,50,362,228,8 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201711011.jpg 33,43,336,298,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201304081.jpg 209,184,238,198,8 207,193,239,205,8 208,201,240,215,8 101,185,129,197,8 101,195,128,206,8 101,204,128,216,8 214,34,249,70,12 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201212271.jpg 1,1,314,235,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201407092.jpg 213,145,318,261,4 122,213,140,233,1 159,234,186,255,1 187,245,209,266,1 42,115,65,129,4 97,138,155,165,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2015061811.jpg 176,142,235,239,4 152,32,234,163,4 166,23,196,42,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2018081414.jpg 186,91,291,238,4 107,20,162,87,1 102,90,165,137,2 174,126,199,178,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/200811302.jpg 117,144,197,215,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2017062922.jpg 104,56,254,255,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2010081018.jpg 14,111,184,405,12 245,220,431,466,11 532,337,598,387,4 448,398,571,480,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/200904309.jpg 212,96,231,132,2 172,208,218,276,4 324,161,343,186,1 285,149,310,174,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201408071.jpg 79,125,145,186,4 209,93,259,149,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201708048.jpg 82,137,203,274,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2013072910.jpg 164,59,229,142,4 156,92,256,226,3 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201209116.jpg 130,105,293,264,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2010081025.jpg 151,232,358,452,3 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2014010240.jpg 293,230,365,300,4 74,153,109,199,4 315,120,379,226,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/20090929.jpg 82,51,363,272,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201802284.jpg 105,30,334,251,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201504161.jpg 145,128,206,164,3 74,101,105,136,4 109,94,166,143,5 263,164,319,225,4 247,72,300,125,3 133,64,180,99,3 150,104,209,134,5 7,183,28,207,1 16,214,33,231,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201506268.jpg 81,108,268,289,9 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2010091510.jpg 282,247,332,294,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2017062216.jpg 1,146,158,300,4 214,103,379,239,6 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/200811135.jpg 51,96,209,211,5 31,56,156,96,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2012091118.jpg 128,67,335,277,4 63,167,171,285,4 299,5,379,96,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201805226.jpg 87,43,346,300,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201411171.jpg 87,44,400,242,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201803084.jpg 71,72,340,274,3 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201203052.jpg 162,189,233,229,8 118,156,178,182,8 173,119,226,166,8 132,113,179,156,8 237,170,299,235,8 90,125,140,180,8 51,2,328,133,5 311,192,355,247,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201405305.jpg 89,96,263,215,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201406307.jpg 34,137,122,261,8 250,172,334,227,8 177,143,260,226,8 126,156,219,232,8 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/20081208.jpg 386,251,588,348,3 276,233,316,285,4 324,281,344,308,4 248,256,268,279,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201611164.jpg 68,75,354,259,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2010082533.jpg 229,88,240,121,1 181,117,226,163,8 56,1,234,78,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2015082711.jpg 153,127,293,264,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2012113013.jpg 109,57,300,197,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/200809051.jpg 201,41,583,277,8 100,88,251,340,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2010082512.jpg 194,220,418,480,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201804188.jpg 66,127,300,248,3 219,209,353,260,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201605191.jpg 88,167,116,202,1 207,119,231,170,1 184,275,215,300,1 1,86,67,243,5 43,1,196,65,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/200801095.jpg 244,67,608,356,5 22,422,210,550,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201508272.jpg 130,138,259,225,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201309111.jpg 97,55,301,288,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2009081810.jpg 170,162,269,246,8 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201507164.jpg 12,119,148,179,2 239,39,352,110,2 104,87,292,153,6 1,162,106,271,5 75,152,146,189,6 214,74,348,109,6 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/20090714.jpg 1,73,372,300,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2010093019.jpg 50,31,394,265,12 282,252,319,277,1 332,165,371,202,4 265,263,279,288,1 291,275,314,300,1 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2008111912.jpg 561,157,606,215,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201507033.jpg 152,113,175,156,1 230,202,308,278,5 111,164,145,183,1 193,124,225,150,1 107,231,141,261,1 188,262,208,292,1 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201807243.jpg 52,101,243,274,4 45,222,194,300,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2017062210.jpg 113,146,281,282,3 35,1,166,216,4 148,1,271,117,4 315,20,400,125,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2008120637.jpg 578,423,800,598,4 283,160,479,357,4 296,378,413,484,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201309051.jpg 90,27,371,300,8 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201407281.jpg 327,175,365,221,4 203,210,273,237,8 199,228,267,252,8 191,183,290,212,5 209,150,274,191,5 6,159,82,215,4 133,187,156,216,4 122,157,137,177,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201510303.jpg 36,193,147,262,4 155,187,266,254,4 201,231,344,300,4 251,184,350,245,4 216,106,297,156,4 362,132,400,168,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/200904168.jpg 76,13,205,158,12 200,1,399,178,12 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2012082713.jpg 353,131,399,160,2 350,151,400,171,2 362,175,395,196,1 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201309113.jpg 208,117,308,228,7 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/200907038.jpg 35,115,120,247,1 257,56,357,260,1 114,172,242,281,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201511248.jpg 131,157,162,191,8 169,160,200,188,8 200,160,228,188,8 191,141,219,164,8 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2011092110.jpg 82,149,331,264,5 162,140,238,170,5 143,116,269,149,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201602257.jpg 134,128,277,285,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201611221.jpg 77,79,384,300,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/200810024.jpg 121,310,800,598,3 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/20090611.jpg 180,87,275,291,12 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2011111111.jpg 386,189,533,229,8 173,208,319,247,8 3,228,140,266,8 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/20120817.jpg 1,100,373,228,10 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/20130514.jpg 51,52,334,300,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201504296.jpg 51,161,98,214,7 32,203,77,236,7 30,163,72,197,7 51,137,104,169,7 145,118,186,154,7 223,184,254,226,3 179,152,209,168,7 116,241,144,260,1 147,206,168,218,1 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201807024.jpg 108,120,201,175,4 215,123,301,160,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201009062.jpg 277,98,298,115,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201708291.jpg 90,57,120,75,8 118,70,160,93,8 227,95,255,111,8 287,92,324,110,8 331,92,359,110,8 160,85,185,100,8 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201609121.jpg 1,176,112,253,2 102,201,196,246,2 30,149,164,196,2 143,115,399,266,2 123,113,181,137,2 87,116,125,135,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201804177.jpg 205,236,258,300,4 134,162,170,201,4 140,193,196,248,2 287,128,339,147,2 280,84,306,111,2 209,110,243,131,2 292,182,313,241,1 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201603291.jpg 109,124,384,253,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201406027.jpg 85,146,209,300,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201601142.jpg 1,1,378,300,3 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2014092910.jpg 171,181,400,299,8 165,2,323,78,8 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2010082418.jpg 1,228,94,300,5 244,168,299,274,4 258,278,345,300,8 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2009063015.jpg 42,81,78,101,8 91,75,133,100,8 302,59,400,117,8 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201704132.jpg 34,14,168,284,4 196,3,279,214,4 264,10,381,216,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201607262.jpg 3,1,400,278,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201509081.jpg 147,201,248,286,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201407022.jpg 178,114,261,199,8 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201611181.jpg 60,15,270,232,1 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201005211.jpg 215,215,340,300,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2009070235.jpg 77,62,200,169,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201608244.jpg 79,4,337,297,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2018032816.jpg 20,43,365,239,7 115,205,205,236,1 306,253,384,294,1 93,181,131,238,1 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2008112414.jpg 259,237,554,536,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201405139.jpg 13,40,393,254,3 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201511191.jpg 121,145,274,300,5 91,200,144,260,1 117,76,227,199,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201209253.jpg 126,174,235,297,4 332,229,363,267,4 224,232,287,300,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201703303.jpg 23,58,397,275,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201506185.jpg 132,161,239,293,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201602012.jpg 67,107,112,140,4 176,200,245,248,8 113,208,207,281,8 204,211,293,274,8 247,118,318,171,8 148,114,188,137,8 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2008120716.jpg 488,1,638,277,12 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201008048.jpg 118,131,297,229,11 62,97,113,168,11 60,132,146,228,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201401083.jpg 157,106,342,187,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201702181.jpg 86,127,287,190,5 1,224,31,264,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2018081411.jpg 82,45,354,231,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2013062412.jpg 82,88,233,271,11 173,153,257,298,5 200,1,272,119,12 130,11,169,32,2 82,70,182,120,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2014011415.jpg 74,103,151,159,5 168,205,287,300,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201701269.jpg 119,69,300,228,2 333,120,400,209,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/20081201.jpg 196,44,242,114,12 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2010082514.jpg 181,175,250,209,5 177,207,232,237,4 111,218,180,246,4 108,239,235,279,3 140,283,266,417,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201804204.jpg 215,191,337,245,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201208275.jpg 117,86,341,264,8 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/200809011.jpg 205,248,514,441,5 1,364,215,600,5 252,418,464,512,6 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2010082614.jpg 221,240,270,301,4 288,264,335,310,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201702225.jpg 50,16,332,293,3 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201511242.jpg 135,250,190,300,4 199,244,261,299,4 258,181,275,197,2 124,93,156,124,3 256,146,307,183,3 332,97,400,144,3 1,180,123,274,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201012101.jpg 1,186,126,233,6 111,151,210,179,6 247,108,281,124,6 182,136,235,155,6 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201007282.jpg 176,98,287,213,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2009063019.jpg 1,127,38,145,8 1,143,39,157,8 1,153,39,167,8 188,107,235,123,8 190,119,228,135,8 166,117,189,162,8 186,132,225,143,8 188,143,227,154,8 188,154,227,165,8 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201201191.jpg 110,284,480,800,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2008120723.jpg 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201807175.jpg 70,145,242,319,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2017042111.jpg 66,129,173,300,4 1,174,80,299,4 331,175,400,300,4 284,109,318,160,1 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201710253.jpg 118,120,194,281,4 193,111,257,264,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201708033.jpg 142,147,223,235,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201803155.jpg 112,153,289,233,8 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201706228.jpg 182,220,262,289,6 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201701261.jpg 109,59,330,219,6 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2011081212.jpg 249,145,489,361,5 548,300,696,460,5 178,123,331,278,5 297,453,423,534,6 136,288,351,505,5 3,212,71,304,5 1,393,168,540,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201803085.jpg 346,138,400,176,1 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2012081510.jpg 90,68,356,299,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201105026.jpg 118,122,221,235,4 74,66,107,173,1 177,196,314,234,7 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2018070513.jpg 143,144,238,197,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2014032413.jpg 120,177,268,282,7 124,83,219,119,10 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201503255.jpg 42,48,297,300,4 56,106,210,250,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201111194.jpg 162,137,285,281,5 289,136,362,206,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201808016.jpg 273,142,384,267,4 1,30,220,258,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2010081015.jpg 127,126,140,138,2 289,219,363,291,4 333,80,400,158,3 356,163,389,233,5 44,195,74,237,4 41,164,70,195,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201404232.jpg 105,30,338,264,4 1,36,87,136,4 1,8,62,61,6 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2018071212.jpg 187,86,262,211,4 247,110,369,295,2 222,15,350,166,3 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/200907272.jpg 114,51,283,157,7 279,36,400,152,7 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2016051219.jpg 270,36,334,83,7 268,66,341,100,7 278,97,328,128,7 258,103,344,180,7 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201210251.jpg 176,139,349,285,9 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201109287.jpg 44,33,360,266,12 281,253,320,278,1 262,262,279,292,1 291,272,317,300,1 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201407182.jpg 68,69,359,300,10 307,1,400,42,6 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2015061830.jpg 1,184,148,350,9 1,106,123,187,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201312232.jpg 166,156,219,241,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/200906305.jpg 62,164,122,231,4 107,170,228,246,7 225,150,333,246,7 1,189,76,248,7 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201711205.jpg 173,107,322,247,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201706033.jpg 144,182,363,286,6 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201701268.jpg 93,74,293,237,2 310,33,400,266,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201606133.jpg 175,154,235,265,4 226,11,272,83,4 275,41,361,150,2 222,55,267,127,1 261,36,351,184,3 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/200906242.jpg 204,148,243,176,4 192,167,215,191,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/200811146.jpg 33,53,55,70,2 41,61,69,77,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/200812136.jpg 57,20,109,140,12 1,26,64,153,12 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201606041.jpg 7,63,398,262,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201403261.jpg 217,148,241,166,5 147,182,161,194,5 144,194,163,209,5 162,187,178,204,5 162,175,178,191,5 221,220,252,245,5 203,234,227,253,5 48,163,93,182,5 105,151,120,164,5 284,134,294,146,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201209121.jpg 191,205,270,242,5 47,215,125,261,5 300,183,400,245,5 109,206,192,296,5 303,161,400,193,5 191,110,308,220,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201009087.jpg 351,266,543,451,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201211092.jpg 263,1,691,522,12 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2018032817.jpg 96,81,360,246,4 170,51,298,115,4 345,165,365,192,1 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2011112915.jpg 303,275,376,299,6 430,266,502,304,6 527,269,596,306,6 29,263,94,287,6 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/20090720.jpg 270,96,317,134,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201511193.jpg 93,116,235,205,6 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2010062310.jpg 58,174,114,207,7 150,174,212,221,7 195,185,279,237,7 277,193,358,248,7 126,191,142,210,2 115,197,129,218,2 102,202,116,223,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201804238.jpg 137,230,263,294,5 216,199,256,231,3 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201507297.jpg 206,76,267,138,2 154,2,205,69,4 128,152,202,300,4 183,235,236,300,4 345,132,373,216,1 228,212,255,271,1 332,65,378,191,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201403131.jpg 193,210,277,270,6 227,122,254,154,4 76,164,161,246,4 105,221,177,288,2 166,167,226,230,2 240,101,270,137,11 315,68,365,81,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201808021.jpg 87,175,291,299,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2008072512.jpg 368,28,557,373,12 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/20090429.jpg 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201207063.jpg 227,67,324,128,7 110,154,155,193,7 103,192,157,229,7 235,126,303,165,7 105,228,150,277,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201806291.jpg 78,47,270,171,2 83,194,264,265,7 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2016112412.jpg 145,166,251,268,7 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/200809226.jpg 307,255,720,600,4 1,323,302,600,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201803153.jpg 116,102,255,156,8 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2008121413.jpg 206,253,268,338,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/20100929.jpg 286,172,303,196,1 219,250,241,287,1 150,170,162,195,1 297,190,329,218,3 181,207,201,220,1 82,255,183,292,5 218,159,256,204,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201106231.jpg 295,135,359,237,4 367,162,400,235,4 211,170,287,243,4 141,169,213,237,4 68,170,141,236,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/200907237.jpg 143,53,157,120,1 156,212,220,279,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/20130102.jpg 136,144,183,213,4 218,118,255,161,4 95,103,130,142,4 54,73,93,111,4 16,115,88,179,3 182,85,256,115,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2012103113.jpg 154,172,174,182,8 154,180,170,189,8 319,143,338,171,12 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/20110715.jpg 181,93,376,191,8 70,79,215,157,8 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/200906093.jpg 440,557,474,578,6 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201008042.jpg 226,216,272,254,5 4,93,262,140,5 263,126,326,149,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201010303.jpg 297,56,326,80,1 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201208153.jpg 79,115,294,271,8 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2008112327.jpg 87,327,278,481,8 256,330,477,486,8 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201008233.jpg 18,107,189,283,4 179,158,268,259,4 257,149,341,243,4 311,104,400,196,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201410202.jpg 118,142,226,249,2 114,148,263,273,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/200811239.jpg 112,33,189,130,4 63,51,87,77,4 73,85,96,107,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201506164.jpg 133,149,319,298,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/20080915.jpg 311,349,393,446,4 327,408,410,513,4 416,350,493,441,4 421,416,504,525,4 360,470,455,590,4 505,449,597,564,4 499,385,581,491,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2017021012.jpg 212,157,287,236,4 271,201,351,269,2 249,164,394,299,7 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201506051.jpg 101,86,232,286,4 215,85,400,298,4 14,74,116,265,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201604271.jpg 223,134,314,218,5 321,137,394,224,5 162,65,212,94,5 148,55,183,78,3 128,111,193,142,3 34,66,51,94,3 18,98,35,121,4 59,82,73,100,4 124,56,144,81,5 211,45,234,64,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201305101.jpg 115,158,264,233,10 73,93,89,108,2 70,109,103,150,4 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201607211.jpg 167,140,244,229,4 61,231,235,296,5 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201506015.jpg 77,43,340,300,2 103,118,162,219,1 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201012117.jpg 45,157,245,300,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/200907201.jpg 65,183,199,235,6 21,1,284,198,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201807051.jpg 63,1,388,288,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2013071817.jpg 208,137,261,180,2 181,123,228,161,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/201408131.jpg 19,1,143,167,4 269,103,345,181,2 263,107,357,232,2 125,161,254,300,2 46,229,135,300,2 256,61,335,110,1 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/2011112916.jpg 364,256,424,284,6 442,232,473,250,2 385,216,429,256,2 281,234,341,286,4 179,166,221,209,4 114,144,147,175,4 415,273,468,328,2 414,272,468,326,2 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/200905139.jpg 
+/home/eagleuser/Users/leyan/keras-yolo3/Container/JPEGImages/20130415.jpg 36,93,66,142,4 301,57,388,117,12 243,202,296,288,4 

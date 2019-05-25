@@ -121,7 +121,13 @@ def parse_data(line, class_num, img_size, anchors, mode):
         img_idx, pic_path, boxes, labels = parse_line(line)
         img = cv2.imread(pic_path)
         # expand the 2nd dimension, mix up weight default to 1.
+        # print(boxes)    
+        # print(boxes.shape) 
+        # print(np.full(shape=(boxes.shape[0], 1), fill_value=1., dtype=np.float32))    
         boxes = np.concatenate((boxes, np.full(shape=(boxes.shape[0], 1), fill_value=1., dtype=np.float32)), axis=-1)
+        # res = sparse.hstack((boxes,np.full(shape=(boxes.shape[0], 1), fill_value=1., dtype=np.float32))).toarray()
+        # print(boxes)
+        # print("---------------------")
     else:
         # the mix up case
         _, pic_path1, boxes1, labels1 = parse_line(line[0])
@@ -202,13 +208,17 @@ def get_batch_data(batch_line, class_num, img_size, anchors, mode, multi_scale=F
         batch_line = mix_lines
 
     for line in batch_line:
-        img_idx, img, y_true_13, y_true_26, y_true_52 = parse_data(line, class_num, img_size, anchors, mode)
+        # print("line : "  + line.decode("utf-8"))
+        try:
+            img_idx, img, y_true_13, y_true_26, y_true_52 = parse_data(line, class_num, img_size, anchors, mode)
 
-        img_idx_batch.append(img_idx)
-        img_batch.append(img)
-        y_true_13_batch.append(y_true_13)
-        y_true_26_batch.append(y_true_26)
-        y_true_52_batch.append(y_true_52)
+            img_idx_batch.append(img_idx)
+            img_batch.append(img)
+            y_true_13_batch.append(y_true_13)
+            y_true_26_batch.append(y_true_26)
+            y_true_52_batch.append(y_true_52)
+        except Exception as e:
+            e = "parse error"
 
     img_idx_batch, img_batch, y_true_13_batch, y_true_26_batch, y_true_52_batch = np.asarray(img_idx_batch, np.int64), np.asarray(img_batch), np.asarray(y_true_13_batch), np.asarray(y_true_26_batch), np.asarray(y_true_52_batch)
 

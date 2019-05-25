@@ -130,13 +130,13 @@ D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2008112915.j
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2008112918.jpg 5 2 343 434 480 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2008112919.jpg 4 356 323 429 430 7 181 390 328 477 7 241 282 307 372 7 384 266 490 320 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2008112922.jpg 4 587 28 638 76 
-D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2008112929.jpg 
+ 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\200811299.jpg 5 1 159 367 480 5 366 225 640 480 5 428 155 640 282 5 15 45 193 109 5 200 56 640 198 12 219 2 260 46 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2008113012.jpg 7 143 235 196 265 7 413 304 533 367 7 403 228 449 248 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\200811302.jpg 4 117 144 197 215 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2008113022.jpg 12 1 1 243 457 
-D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2008113027.jpg 
-D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2008113034.jpg 
+ 
+ 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2008113041.jpg 1 476 167 568 297 2 191 298 301 359 2 140 289 330 364 10 2 97 558 479 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\200811307.jpg 5 72 241 445 316 5 443 236 640 322 5 1 270 83 322 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\20081201.jpg 12 196 44 242 114 
@@ -149,7 +149,7 @@ D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2008120614.j
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2008120615.jpg 3 329 271 415 325 3 424 264 504 342 3 189 210 261 275 3 234 180 307 246 3 447 175 477 202 1 348 179 379 197 1 277 267 308 285 1 171 289 197 315 4 360 146 421 217 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2008120616.jpg 4 379 171 441 262 4 249 410 296 474 12 1 1 193 267 3 325 547 430 639 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2008120617.jpg 3 137 122 265 195 
-D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2008120619.jpg 
+ 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2008120620.jpg 5 1 141 366 390 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2008120628.jpg 4 496 306 591 445 4 476 269 565 388 4 227 307 311 422 4 257 243 336 352 2 305 353 344 390 12 232 13 293 115 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2008120629.jpg 12 453 1 640 429 
@@ -165,7 +165,7 @@ D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\200812071.jp
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2008120712.jpg 2 116 351 249 480 1 228 273 277 351 1 188 266 224 339 5 316 178 406 286 3 145 132 265 222 3 258 111 317 202 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2008120716.jpg 12 488 1 638 277 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\200812072.jpg 4 128 44 379 422 4 279 372 360 428 4 388 125 491 289 
-D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2008120723.jpg 
+ 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2008120726.jpg 0 104 66 296 265 0 162 138 383 307 5 259 81 399 152 4 57 24 123 81 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\200812078.jpg 4 238 398 342 480 5 145 149 625 306 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\20081208.jpg 3 386 251 588 348 4 276 233 316 285 4 324 281 344 308 4 248 256 268 279 
@@ -238,7 +238,7 @@ D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\200904163.jp
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\200904166.jpg 4 1 43 38 106 7 1 101 132 208 3 45 171 180 300 2 211 86 260 126 3 72 15 296 196 4 223 171 337 300 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\200904168.jpg 12 76 13 205 158 12 200 1 399 178 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\200904283.jpg 9 285 203 366 282 5 1 90 256 300 5 246 191 271 208 
-D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\20090429.jpg 
+ 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2009042915.jpg 2 207 126 239 156 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2009042919.jpg 5 47 165 92 178 5 218 150 241 164 5 225 225 249 241 5 147 194 161 207 5 163 189 176 203 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2009042920.jpg 4 38 69 198 184 
@@ -255,7 +255,7 @@ D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\200905121.jp
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\200905126.jpg 4 198 80 282 164 2 303 36 382 97 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\20090513.jpg 5 84 178 159 235 5 161 158 216 222 12 235 39 396 217 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\200905137.jpg 8 226 124 260 176 8 103 125 161 182 8 119 113 173 165 8 163 126 201 177 8 174 121 218 176 
-D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\200905139.jpg 
+ 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\200905141.jpg 4 57 140 109 204 4 114 165 181 262 4 171 190 245 296 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\200905145.jpg 7 19 177 153 269 2 254 128 291 162 4 271 229 365 300 3 81 109 306 258 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\20090518.jpg 8 3 190 74 229 8 75 112 127 142 8 244 180 298 242 8 266 173 312 202 5 163 108 314 181 8 190 191 259 227 8 194 222 267 248 4 97 159 125 182 4 64 136 98 167 2 73 206 88 220 
@@ -584,9 +584,9 @@ D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2010091522.j
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\201009153.jpg 5 171 28 592 230 2 283 212 318 250 2 525 234 572 257 5 328 226 461 304 5 1 154 171 416 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\201009157.jpg 4 254 281 387 447 9 245 82 378 179 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\201009161.jpg 4 213 206 281 279 4 101 160 169 257 4 111 257 182 300 4 262 147 291 183 2 304 120 350 139 5 202 138 262 178 5 135 128 186 149 7 1 239 133 300 
-D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\201009163.jpg 
+ 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\201009164.jpg 12 22 47 171 247 
-D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\20100917.jpg 
+ 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\201009241.jpg 3 97 127 185 216 3 194 86 289 189 3 122 40 213 128 3 130 254 205 301 3 252 70 315 144 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2010092416.jpg 4 179 130 255 217 4 213 104 256 145 5 1 1 176 222 5 160 40 247 112 5 249 156 305 212 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2010092420.jpg 4 155 143 271 278 4 38 152 136 263 
@@ -733,7 +733,7 @@ D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\20101208.jpg
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2010120814.jpg 9 1 40 400 273 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\201012085.jpg 4 94 148 125 186 4 331 253 365 294 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\201012087.jpg 3 38 26 284 281 
-D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\201012091.jpg 
+ 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2010120912.jpg 5 117 71 159 110 5 118 97 185 141 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2010120913.jpg 4 314 183 372 256 6 274 261 357 300 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\201012092.jpg 12 139 160 213 263 
@@ -1231,7 +1231,7 @@ D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\201307192.jp
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2013071920.jpg 8 136 205 218 287 5 135 98 183 152 5 246 92 362 140 4 307 265 376 300 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\201307198.jpg 2 206 259 286 335 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\201307251.jpg 5 122 192 156 246 5 123 177 190 218 7 154 221 187 236 
-D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\201307255.jpg 
+ 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\2013072910.jpg 4 164 59 229 142 3 156 92 256 226 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\201307293.jpg 2 178 132 243 180 
 D:\WorkSpace\Git\YOLOv3_TensorFlow\Container\train_cdc\train_images\201307297.jpg 4 173 153 247 216 

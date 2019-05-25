@@ -22,13 +22,15 @@ def convert(n,size, box):
     h = (box[3] - box[2])*1.0 * dh    
     return (n,x, y, w, h)
 
-def convert_annotation(image_id, train_file):
+def convert_annotation(path,image_id, train_file):
     in_file = open('./train_cdc/train_annotations/%s.xml'%(image_id))
     tree=ET.parse(in_file)
     root = tree.getroot()
     width = int(root.find('size').findtext('width'))
     height = int(root.find('size').findtext('height'))
 
+    if root.find('object'):
+        train_file.write(path)     
     for obj in root.iter('object'):
         cls = obj.find('name').text
         if cls not in classes:
@@ -40,7 +42,8 @@ def convert_annotation(image_id, train_file):
         ymin = obj.find('bndbox').findtext('ymin')
         xmax = obj.find('bndbox').findtext('xmax')
         ymax = obj.find('bndbox').findtext('ymax')
-        b = [cls_id,xmin,ymin,xmax,ymax]
+        b = [cls_id,xmin,ymin,xmax,ymax]       
+        
         train_file.write(" " + " ".join([str(a) for a in b]))
     train_file.write(" ")
 
@@ -56,9 +59,9 @@ def create_keras_data():
     train_file = open('container.txt','w') 
     dir_data = listdir(train_XmlDir)
     for idx,f in enumerate(dir_data):    
-        image_id = f.replace(".xml","")   
-        train_file.write(os.path.abspath(img_dir +'/%s.jpg'%(image_id)))      
-        convert_annotation(image_id,train_file)
+        image_id = f.replace(".xml","")  
+        img =  os.path.abspath(img_dir +'/%s.jpg'%(image_id))
+        convert_annotation(img,image_id,train_file)
         if idx != (len(dir_data)-1):
             train_file.write("\n")
         

@@ -65,7 +65,3 @@ __pycache__/
 Container/.vscode/
 Container/train_cdc/
 Container/test_cdc/
-*.zip
-data/darknet_weights/yolov3.ckpt.data-00000-of-00001
-data/darknet_weights/yolov3.ckpt.index
-data/darknet_weights/yolov3.ckpt.meta

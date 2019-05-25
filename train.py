@@ -16,6 +16,12 @@ from utils.nms_utils import gpu_nms
 
 from model import yolov3
 
+import os
+# 使用第一張與第三張 GPU 卡
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+# 只使用 30% 的 GPU 記憶體
+gpu_options = tf.GPUOptions(per_process_gpu_memory_fraction=0.3)
+
 # from tensorflow.python import debug as tf_debug
 
 # setting loggers
@@ -46,6 +52,7 @@ train_dataset = train_dataset.prefetch(args.prefetech_buffer)
 
 val_dataset = tf.data.TextLineDataset(args.val_file)
 val_dataset = val_dataset.batch(1)
+
 val_dataset = val_dataset.map(
     lambda x: tf.py_func(get_batch_data,
                          inp=[x, args.class_num, args.img_size, args.anchors, 'val', False, False],
@@ -115,7 +122,7 @@ update_ops = tf.get_collection(tf.GraphKeys.UPDATE_OPS)
 with tf.control_dependencies(update_ops):
     train_op = optimizer.minimize(loss[0] + l2_loss, var_list=update_vars, global_step=global_step)
 
-with tf.Session() as sess:
+with tf.Session(config=tf.ConfigProto(gpu_options=gpu_options)) as sess:
     # Add wrapper tensorflow debug
     # debug_sess = tf_debug.LocalCLIDebugWrapperSession(sess=sess)
     
